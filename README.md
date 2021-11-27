@@ -38,7 +38,6 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chachi-ayoub&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachi-ayoub&theme=buefy&layout=compact" />
 </a>
 
@@ -46,7 +45,14 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+
 <p align="center">
-<a href="https://www.linkedin.com/in/ayoub-chachi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ayoub%20Chachi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ayoubchachii/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ayoubchachii?style=flat-square&logo=instagram"></a>
-</p>
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">  
+    <a href="https://www.linkedin.com/in/ayoub-chachi/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https://www.facebook.com/ayoubchachii" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
+  <a href="https://www.instagram.com/ayoubchachii/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+    <a href="mailto:chachiayoub9@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+  </p>
+
