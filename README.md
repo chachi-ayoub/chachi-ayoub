@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks especially when it comes to Data Science.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at The national school of applied sciences in Al-Hoceima Morocco.
 - 💼 &nbsp; Freelancer in Web development.
 - 🌱 &nbsp; Learning more about Data science, Business Intelligence and Artificial Intelligence.
