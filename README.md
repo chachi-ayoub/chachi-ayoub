@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at The national school of applied sciences in Al-Hoceima Morocco.
 - 💼 &nbsp; Freelancer in Web development.
 - 🌱 &nbsp; Learning more about Data science, Business Intelligence and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design and playing music as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
