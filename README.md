@@ -40,7 +40,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a align="center" href="https://github.com/AVS1508">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachi-ayoub&theme=buefy&layout=compact" />
 </a>
 
