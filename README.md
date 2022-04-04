@@ -40,14 +40,14 @@
 
 <br/>
 
-<a align="center" href="https://github.com/AVS1508">
+<a  href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chachi-ayoub&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
 
-<p align="center">
+<p style="margin:auto;" align="center">
   <i>Let's connect and chat! Open to anything under the sun 🤝🏻 &nbsp;.</i>
 
   
